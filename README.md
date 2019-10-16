@@ -5,4 +5,6 @@ Tic Tac Toe Game written in Java for S3 Object Oriented Programming Course, buil
 ## What is Tic-Tac-Toe?
 A game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
+Self play algorithm implementation pending.
+
 References: [NTU programming notes on Java](https://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe.html)
